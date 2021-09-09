@@ -11,4 +11,4 @@ After taking these inputs, you should print all the moves in the form of the cur
 - Each player has a piece which is initially kept outside the board (i.e., at position 0).
 
 - Each player rolls the dice when their turn comes.
-- 
+
